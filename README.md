@@ -2,7 +2,7 @@
 open urls in a specific browser
 
 ## Usage
-```webpage`` expects the location of an executable of the brower to be passed. As long
+```webpage``` expects the location of an executable of the brower to be passed. As long
 as the browser supports command line interfaces ```webpage``` will work.
 
 ## Examples
